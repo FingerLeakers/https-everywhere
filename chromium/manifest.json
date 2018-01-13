@@ -10,13 +10,13 @@
         "scripts": [
             "bootstrap.js",
             "util.js",
+            "update_channels.js",
+            "update.js",
             "rules.js",
             "store.js",
             "pako_inflate.min.js",
-            "update_channels.js",
-            "update.js",
-            "background.js",
-            "incognito.js"
+            "incognito.js",
+            "background.js"
         ]
     },
     "browser_action": {
