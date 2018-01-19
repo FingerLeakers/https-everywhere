@@ -14,7 +14,7 @@
             "update.js",
             "rules.js",
             "store.js",
-            "pako_inflate.min.js",
+            "external/pako-1.0.5/pako_inflate.min.js",
             "incognito.js",
             "background.js"
         ]
